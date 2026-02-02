@@ -48,8 +48,7 @@ GScores is a web application that allows users to look up Vietnam High School Gr
 ```bash
 cd backend
 
-# Start only PostgreSQL
-docker compose up -d postgres
+docker compose up -d 
 ```
 
 #### 2. Run Spring Boot Application
