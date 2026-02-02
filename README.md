@@ -1,4 +1,4 @@
-# GScores - School Graduation Exam Score Lookup System
+# GScores - School Graduation Exam Score
 
 ## Introduction
 
