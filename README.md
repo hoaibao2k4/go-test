@@ -35,13 +35,7 @@ GScores is a web application that allows users to look up Vietnam High School Gr
 | Flyway          | -       | Database migration         |
 | Lombok          | -       | Boilerplate code reduction |
 | Maven           | 3.9.x   | Build tool                 |
-
-### DevOps
-
-| Technology     | Description                   |
-| -------------- | ----------------------------- |
 | Docker         | Containerization              |
-| Docker Compose | Multi-container orchestration |
 
 ---
 
